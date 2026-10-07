@@ -1,0 +1,19 @@
+name: apisniper-mcp
+displayName: APISniper - Reverse API, cURL to SDK & Zod MCP
+description: Universal API engineer for Cursor, Claude & Windsurf. Convert cURL to strongly-typed TypeScript/Python SDKs, generate Zod schemas, inspect live DNS & SSL security headers, and build mock APIs.
+category: developer-tools
+homepage: https://github.com/AmyGraphics/apisniper-mcp
+repository: https://github.com/AmyGraphics/apisniper-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/apisniper-mcp/main/icon.png
+keywords:
+  - curl-to-typescript
+  - zod-generator
+  - api-client
+  - typescript-sdk
+  - mock-api
+  - dns-lookup
+  - cursor
+  - claude
+startCommand:
+  type: http
+  url: https://apisniper-api.agentweb-hub.workers.dev/mcp

@@ -1,0 +1,9 @@
+{
+  "name": "apisniper-mcp",
+  "version": "1.0.0",
+  "description": "Reverse API, cURL to TypeScript SDK, Zod Schema & Network Inspector MCP for Cursor, Claude Code, and Windsurf",
+  "main": "index.js",
+  "type": "module",
+  "author": "tofan96you",
+  "license": "MIT"
+}
