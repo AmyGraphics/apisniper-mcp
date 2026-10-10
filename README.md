@@ -12,6 +12,12 @@ Universal Reverse API, cURL to TypeScript SDK, Zod Schema & Network Inspector MC
 `https://apisniper-api.agentweb-hub.workers.dev/mcp`
 
 
+## 🔴 NEW in v1.1 — Live Tool: `probe_api_endpoint_live`
+
+Sends a REAL timed request to any API endpoint: HTTP status, measured latency in ms, CORS posture, auth requirements (401/403/WWW-Authenticate), rate-limit headers, server fingerprint and JSON shape.
+
+No API key needed — works out of the box.
+
 ## 💰 Pricing
 
 **Start free — 10 requests/day, no signup, no card.** Upgrade only if it earns a place in your workflow.
