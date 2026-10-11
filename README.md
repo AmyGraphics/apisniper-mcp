@@ -41,3 +41,8 @@ Send **$7.99 USDC** (single) or **$14.99 USDC** (all-access) to:
 ```
 
 Then POST your transaction signature to the `/verify-solana` endpoint to activate your lifetime license instantly.
+
+
+## Positioning
+
+APISniper turns a real cURL request into production-ready SDK code with typed schemas, auth handling, retries, error handling, examples and mocks. It is for SDK generation; APIContractGuard is for OpenAPI release regression gates.
