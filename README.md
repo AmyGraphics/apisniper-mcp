@@ -46,3 +46,10 @@ Then POST your transaction signature to the `/verify-solana` endpoint to activat
 ## Positioning
 
 APISniper turns a real cURL request into production-ready SDK code with typed schemas, auth handling, retries, error handling, examples and mocks. It is for SDK generation; APIContractGuard is for OpenAPI release regression gates.
+
+
+## Why this MCP is worth using
+
+Real cURL/request → production-ready typed SDK with auth, retries, errors, schemas, mocks and examples.
+
+This outcome is the product value; the tool count is only an implementation detail.
